@@ -12,6 +12,10 @@ body {
     margin: 0;
 }
 
+h1, h3 {
+    color: #ff7979;
+}
+
 .container {
     background-color: #fafafa;
     transform-origin: top left;
@@ -19,7 +23,6 @@ body {
     width: 100vw;
     min-height: 100vh;
     padding: 50px;
-
 }
 
 .container.show-nav {
